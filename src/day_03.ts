@@ -53,5 +53,5 @@ function part_02() {
   console.log('Part_02 answer: ', answer);
 }
 
-part_01(); // 0.515 ms
-part_02(); // 0.950 ms
+part_01(); // 0.5 ms
+part_02(); // 0.9 ms
